@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Almond\\5 paper\\7 毕业论文撰写\\6 程序编写\\2 Code\\Space Layout\\Space Layout.csproj": {}
+  },
+  "projects": {
+    "E:\\Almond\\5 paper\\7 毕业论文撰写\\6 程序编写\\2 Code\\Space Layout\\Space Layout.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Almond\\5 paper\\7 毕业论文撰写\\6 程序编写\\2 Code\\Space Layout\\Space Layout.csproj",
+        "projectName": "Space Layout",
+        "projectPath": "E:\\Almond\\5 paper\\7 毕业论文撰写\\6 程序编写\\2 Code\\Space Layout\\Space Layout.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\Almond\\5 paper\\7 毕业论文撰写\\6 程序编写\\2 Code\\Space Layout\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Grasshopper": {
+              "include": "Compile, Build",
+              "target": "Package",
+              "version": "[7.4.21078.1001, )"
+            },
+            "NPOI": {
+              "target": "Package",
+              "version": "[2.6.2, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
